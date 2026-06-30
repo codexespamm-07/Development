@@ -1,0 +1,6 @@
+{
+  "name": "Saravana Residency",
+  "description": "Experience serene luxury at Saravana Residency. A luxury resort and travel destination blending heritage hospitality with premium modern comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
